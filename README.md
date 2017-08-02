@@ -7,6 +7,6 @@
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
-![Image](C:\Documents and Settings\Administrator\桌面\1.jpg)
+![Image](https://user.qzone.qq.com/825517651)
 
 See [NbViewer]
