@@ -6,4 +6,5 @@
 >In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
-[![book](file:///C:/Documents%20and%20Settings/Administrator/%E6%A1%8C%E9%9D%A2/1.jpg)]
+
+[](file:///C:/Documents%20and%20Settings/Administrator/%E6%A1%8C%E9%9D%A2/1.jpg)]
