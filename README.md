@@ -7,4 +7,4 @@
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
-[](file:///C:/Documents%20and%20Settings/Administrator/%E6%A1%8C%E9%9D%A2/1.jpg)]
+[![book](http://akamaicovers.oreilly.com/images/0636920052289/cat.gif)](http://shop.oreilly.com/product/0636920052289.do)
