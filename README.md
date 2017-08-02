@@ -7,4 +7,6 @@
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
-![](./docs/secret_life.png)
+![](C:\Documents and Settings\Administrator\桌面\1.jpg)
+
+See [NbViewer]
