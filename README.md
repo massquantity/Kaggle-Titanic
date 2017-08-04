@@ -15,10 +15,10 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 ![Image](http://a3.qpic.cn/psb?/V107khlM1bLYMn/YgCcZdpUwL2f67Nk0LymNVgtogg1Lkol3mKjkSyjrQs!/b/dG0BAAAAAAAA&bo=YAOAAgAAAAARB9E!&rf=viewer_4)
 
 
-### Content:
-- 1. Data Cleaning
-- 2. Exploratory Visualization
-* 3. Feature Engineering
+## Content:
+1. Data Cleaning
+2. Exploratory Visualization
+3. Feature Engineering
 4. Basic Modeling & Evaluation
 5. Hyperparameters tuning
 6. Ensemble Methods
