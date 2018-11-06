@@ -21,3 +21,4 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 4. Basic Modeling & Evaluation
 5. Hyperparameters tuning
 6. Ensemble Methods
+jk
